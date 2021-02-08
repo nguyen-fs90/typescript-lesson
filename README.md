@@ -1,4 +1,6 @@
-## Typescript Lesson
+# Typescript Lesson
+
+## Basic in Typescript
 
 ### Install typescript + tslint: ```npm install -g typescript tslint```
 
@@ -12,8 +14,8 @@
 
 ### [Unions and Intersection Types](./src/Unions.ts)
 
-### Classes
+### [Classes](./src/Classes.ts)
 
-### Enums
+### [Enums](./src/Enums.ts)
 
-### Generics
+### [Generics](./src/Generics.ts)
