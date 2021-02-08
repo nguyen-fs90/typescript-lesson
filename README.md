@@ -1,16 +1,16 @@
 ## Typescript Lesson
 
-### Install: ```npm install -g typescript```
+### Install typescript + tslint: ```npm install -g typescript tslint```
 
-### [Basic Types](./src/BasicTypes.js)
+### [Basic Types](./src/BasicTypes.ts)
 
-### Interfaces
+### [Interfaces](./src/Interfaces.ts)
 
-### Functions
+### [Functions](./src/Functions.ts)
 
-### Literal Types
+### [Literal Types](./src/LiteralTypes.ts)
 
-### Unions and Intersection Types
+### [Unions and Intersection Types](./src/Unions.ts)
 
 ### Classes
 
