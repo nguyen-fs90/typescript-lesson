@@ -44,3 +44,15 @@ enum Color {
   Blue,
 }
 let c: Color = Color.Green;
+
+/**
+ * Unknown
+ */
+let notSure: unknown = 4;
+notSure = "string";
+notSure = true;
+
+/**
+ * Any
+ */
+
