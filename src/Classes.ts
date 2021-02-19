@@ -34,3 +34,19 @@ const dog = new Dog();
 dog.bark();
 dog.move(10);
 dog.bark();
+
+/**
+ * Public, private, and protected modifiers
+ */
+class Person {
+  public name: string;
+  private color: string;
+  protected age: number;
+
+  constructor(theName: string) {
+    this.name = theName;
+    this.color = "white";
+    this.age = 4;
+  }
+}
+let peter = new Person("Peter");
