@@ -81,3 +81,13 @@ class Grid {
 let grid1 = new Grid(1.0);
 let grid2 = new Grid(5.0);
 
+/**
+ * Abstract Classes
+ */
+abstract class AnimalOne {
+  abstract makeSound(): void;
+
+  move(): void {
+    console.log("roaming the earth...");
+  }
+}
